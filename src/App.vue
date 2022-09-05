@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld />
+  <HelloWorld msg="Meu nome é João Paulo" />
 </template>
 
 <script>
